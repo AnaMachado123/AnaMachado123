@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ana 
 
-<!--
-**AnaMachado123/AnaMachado123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer & Computer Engineering Student
 
-Here are some ideas to get you started:
+I enjoy building modern, intuitive web interfaces and complete software applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+React · TypeScript · JavaScript · FastAPI · Python
+
+## Featured Projects
+
+- TexP@ct AI
+- HostLink
+- Emotion Mirror
+- AthloDynamis
+- TechNews
