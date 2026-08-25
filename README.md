@@ -6,7 +6,7 @@ I enjoy building modern, intuitive web interfaces and complete software applicat
 
 ## Tech Stack
 
-React · TypeScript · JavaScript · FastAPI · Python
+React · TypeScript · JavaScript · FastAPI · 
 
 ## Featured Projects
 
