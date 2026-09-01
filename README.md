@@ -47,5 +47,4 @@ RAG-powered technology news assistant that retrieves and answers questions about
 ---
 
 ## Let's Connect
-
-Thank you for stopping by! I'd be happy to connect with you on [LinkedIn](https://www.linkedin.com/in/ana-carolina-machado-0a506532a/).
+ I'd be happy to connect with you on [LinkedIn](https://www.linkedin.com/in/ana-carolina-machado-0a506532a/).
